@@ -1,0 +1,136 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #f6efe9;
+	margin: 0;
+}
+
+#hero {
+	background-color: #5c735d;
+	color: #F6EFE9;
+	padding: 40px;
+}
+#hero img {
+    width: 500px;
+    max-width: 100%;
+	display: block;
+	margin-left: 0px;
+}
+
+h1 {
+	font-size: 48px;
+	margin-bottom: 10px;
+	font-family: Georgia, "Times New Roman", serif;
+}
+
+h2 {
+	font-family: georgia, "times new roman", serif;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+h3 {
+	font-family: georgia, "times new roman", serif;
+    font-size: 22px;
+}
+
+p {
+	font-family: arial, helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+	
+}
+
+q {
+	font-family: georgia, "times new roman", serif;
+    font-size: 20px;
+    font-style: italic;
+}
+
+a.button {
+    background-color: #d9b5a0;
+    color: #5c735d;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+a.button:hover {
+    background-color: #F2E0D5;
+    color: #5C735D;
+}
+
+#typography {
+	padding: 40px;
+	color: #5C735D
+}
+
+#typography h3 {
+	background-color: #95A692;
+	padding: 15px;
+	color: #f6efe9;	
+}
+
+#typography p {
+	margin-bottom: 30px;
+	line-height: 1.5;
+}
+
+#color-design {
+	padding: 40px;
+	background-color: #D9B5A0;
+	color: #5C735D
+}
+
+#color-design h3 {
+	background-color: #F2E0D5;
+	padding: 15px;
+	color: #5C735D
+}
+
+#color-design img {
+    width: 500px;
+    max-width: 100%;
+    display: block;
+	margin-top: 30px auto 10 auto;
+}
+
+#typography img {
+    width: 500px;
+    max-width: 100%;
+    display: block;
+    margin-top: 30px auto 0 auto;
+}
+
+#color-design p {
+	margine-bottom: 30px;
+	line-height: 1.5;
+}
+
+#resources {
+	background-color: #5c735d;
+	color: #f6efe9;
+	padding: 40px;
+}
+#resources a {
+	color: #f6efe9;
+}
+
+#resources a:hover{
+	color: #d9b5a0;
+}
+
+.caption {
+    font-size: 13px;
+    font-style: italic;
+    margin-top: 8px;
+}
+
+#font-pairing {
+	font-family: arial, helvetica, sans-serif;
+}
+
+
